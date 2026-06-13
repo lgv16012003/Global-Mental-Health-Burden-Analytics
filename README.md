@@ -11,7 +11,7 @@ While clinical studies often focus on individual psychiatric cohorts, this longi
 
 ## 📊 Methodology & Analytical Results
 - **Trend Visualizations:** Built using Python (Pandas, Seaborn, and Matplotlib) to map out historical health burden shifts. Vietnam demonstrated a steady and continuous rise, climbing from a **3.29%** share of total disease DALYs in 1990 to **4.63%** in 2019.
-- **Predictive Analytics:** Utilizing a linear regression training pipeline, the model projects that mental disorders will continue to demand a higher share of national health resources, forecasting a gánh nặng up to **5.08% in 2025** and reaching **5.28% by 2030**.
+- **Predictive Analytics:** Utilizing a linear regression training pipeline, the model projects that mental disorders will continue to demand a higher share of national health resources, forecasting a burden of up to **5.08% in 2025** and reaching **5.28% by 2030**.
 
 ## 🛡️ Public Health and Preventive Policy Implications
 1. **Strategic Healthcare Resource Allocation:** The projected linear increase of nearly ~14% in overall mental health burden share by 2030 underscores an urgent need to expand psychiatric and psychological infrastructure in primary care.
